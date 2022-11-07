@@ -1,0 +1,15 @@
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.csproj.AssemblyReference.cache
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.AssemblyInfoInputs.cache
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.AssemblyInfo.cs
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.csproj.CoreCompileInputs.cache
+C:\Users\LudoM\Desktop\C#\PokemonGO\bin\Debug\net6.0\PokemonGO.exe
+C:\Users\LudoM\Desktop\C#\PokemonGO\bin\Debug\net6.0\PokemonGO.deps.json
+C:\Users\LudoM\Desktop\C#\PokemonGO\bin\Debug\net6.0\PokemonGO.runtimeconfig.json
+C:\Users\LudoM\Desktop\C#\PokemonGO\bin\Debug\net6.0\PokemonGO.dll
+C:\Users\LudoM\Desktop\C#\PokemonGO\bin\Debug\net6.0\PokemonGO.pdb
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.dll
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\refint\PokemonGO.dll
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.pdb
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\PokemonGO.genruntimeconfig.cache
+C:\Users\LudoM\Desktop\C#\PokemonGO\obj\Debug\net6.0\ref\PokemonGO.dll
